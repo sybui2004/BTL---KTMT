@@ -11,3 +11,7 @@ Cần tải để chạy game Pong:
 - link pong
 - ; + Enter
 - pong
+
+
+Video Demo BMI: https://www.youtube.com/watch?v=NS3PUEXld6M
+Video Demo Pong: https://www.youtube.com/watch?v=T7O-ddg3e88
